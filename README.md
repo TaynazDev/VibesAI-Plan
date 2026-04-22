@@ -1,3 +1,5 @@
+https://claude.ai/public/artifacts/a7e7876e-41b1-46d2-99ce-771922f0bfa2/
+https://taynazdev.github.io/VibesAI-Plan/
 # VibesAI by Prism
 
 > A frictionless vibe-coding platform with AI-powered code generation, live preview, and one-tap deploy — built for builders who think in ideas, not syntax.
